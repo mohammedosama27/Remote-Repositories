@@ -1,0 +1,3 @@
+This project is a practice of Agile lab 3 
+It 's on Remote Repositories & GitHub Integration
+We try to upload our work for git on local devices to github
